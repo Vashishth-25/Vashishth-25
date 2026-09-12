@@ -1,4 +1,4 @@
-# Hey, I'm Vashishth 👋
+# Hey, I'm Vashishth
 
 CSE student exploring Software Engineering and AI/ML.
 
