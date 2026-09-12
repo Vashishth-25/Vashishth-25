@@ -1,15 +1,21 @@
-# Hey, I'm Vashishth
+# Hey, I'm Vashishth 👋
 
-AI-ML student who likes building things, understanding how they work,
+CSE student exploring Software Engineering and AI/ML.
+
+I like building things, understanding how they work,
 and occasionally making them unnecessarily complicated.
 
 ### Currently
-- </> Learning C++ & Software Engineering
+
+- 💻 Learning C++ and Software Engineering
 - 🤖 Exploring AI/ML
-- 🛠️ Building projects and products
-- 💡 Interested in startups & technology
+- 🚀 Building projects and products
+- 💡 Exploring startups and technology
 
-### Tech I'm learning
-C++ • Python • AI/ML • JS/TS
+### Currently learning
 
-"Build things. Learn fast."
+C++ • Python • JavaScript/TypeScript • AI/ML
+
+---
+
+🌐 [vrsingh.in](https://vrsingh.in)
