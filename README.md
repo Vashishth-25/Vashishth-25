@@ -1,6 +1,6 @@
 # Hey, I'm Vashishth
 
-CSE student who likes building things, understanding how they work,
+AI-ML student who likes building things, understanding how they work,
 and occasionally making them unnecessarily complicated.
 
 ### Currently
