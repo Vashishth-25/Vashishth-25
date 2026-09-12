@@ -12,5 +12,4 @@ and occasionally making them unnecessarily complicated.
 ### Tech I'm learning
 C++ • Python • AI/ML • JS/TS
 
-
-> "Build things. Learn fast."
+"Build things. Learn fast."
